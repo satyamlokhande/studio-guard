@@ -1,0 +1,6 @@
+{
+  "name": "AquaGuard - Smart Groundwater Monitoring and Management System",
+  "description": "AI-powered underground water management and monitoring platform featuring level monitoring, water quality analytics, pipeline leakage detection, extraction anomaly tracking, and recharge analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
